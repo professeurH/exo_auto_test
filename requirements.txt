@@ -1,2 +1,2 @@
 sys==3.8.2
-nbautoeval = 1.1.4
+nbautoeval == 1.1.4
